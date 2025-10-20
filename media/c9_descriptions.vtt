@@ -1,0 +1,19 @@
+WEBVTT
+
+NOTE Description track created by Clayton Ladner - October 19, 2025
+
+1
+00:00:00.000 --> 00:00:05.000
+A clean website layout is shown with a header, navigation, main content with a video player on the left and a contact aside on the right.
+
+2
+00:00:05.000 --> 00:00:12.000
+The presenter demonstrates resizing the browser window and the layout adjusts; text reflows and the video scales.
+
+3
+00:00:12.000 --> 00:00:20.000
+Graphs and code examples appear in the video to illustrate media queries and flexible images.
+
+4
+00:00:20.000 --> 00:00:35.000
+The demonstration finishes with a test of the responsive layout on a simulated mobile device.
