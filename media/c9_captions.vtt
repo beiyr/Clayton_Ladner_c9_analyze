@@ -1,0 +1,31 @@
+WEBVTT
+
+NOTE This captions file created by Clayton Ladner - October 19, 2025
+
+1
+00:00:00.000 --> 00:00:05.000
+Welcome to the responsive web design demonstration.
+
+2
+00:00:05.000 --> 00:00:10.000
+In this video we will show how layouts adapt to different screen sizes.
+
+3
+00:00:10.000 --> 00:00:15.000
+Notice how images and text reflow when the viewport changes.
+
+4
+00:00:15.000 --> 00:00:20.000
+The instructor demonstrates fluid grids and flexible media.
+
+5
+00:00:20.000 --> 00:00:25.000
+We'll also look at media queries and breakpoints.
+
+6
+00:00:25.000 --> 00:00:30.000
+Finally, we'll test on mobile and desktop environments.
+
+7
+00:00:30.000 --> 00:00:35.000
+Thank you for watching the responsive web design overview.

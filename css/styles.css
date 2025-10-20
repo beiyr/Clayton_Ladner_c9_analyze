@@ -1,0 +1,34 @@
+/* Basic styles for c9 analyze page */
+body {
+    background: #c8dbe3;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+#container {
+    width: 90%;
+    margin: 0 auto;
+}
+header {
+    background: #0419B8;
+    color: #fff;
+    padding: 1.5rem;
+    text-align: center;
+}
+nav {
+    background: #5162E0;
+    padding: .5rem;
+    text-align: center;
+}
+nav ul { list-style: none; margin: 0; padding: 0; }
+nav li { display: inline; margin: 0 1rem; }
+nav a { color: #fff; text-decoration: none; }
+main { display: flex; gap: 2rem; padding: 1.5rem; background: #fff; box-shadow: .5em .5em .5em #404040; }
+video { border: .5em double #0419B8; border-radius: 1rem; max-width: 100%; height: auto; }
+aside { flex: 1; }
+/* Footer */
+footer { text-align: center; padding: 1rem 0; }
+
+/* Small responsive tweak */
+@media (max-width: 800px) {
+    main { flex-direction: column; }
+}
